@@ -1,5 +1,20 @@
-# 👋 Hi, I'm Samir Elhadad  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CE82B&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+Samir+Elhadad's+Profile!;" />
+</div>
 
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/samir-elhadad-8303a4398">
+    <img src="https://img.shields.io/badge/-Samir_Elhadad-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:samirelhadad28@gmail.com">
+    <img src="https://img.shields.io/badge/-samirelhadad28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SamirElhadad1&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
+
+<br/>
 💻 Front-End Developer | .NET Backend Learner | AI & Data Science Student  
 🚀 Building modern, scalable web applications  
 🇪🇬 Based in Egypt | Open to Internships & Freelance Opportunities  
