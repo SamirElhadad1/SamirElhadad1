@@ -67,14 +67,15 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamirElhadad1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamirElhadad1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamirElhadad1&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -87,11 +88,6 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 
 ---
 
-## 🧩 Problem Solving  
-
-> Coming Soon: LeetCode & Codeforces Profiles  
-
----
 
 ## 🌍 Connect With Me  
 
