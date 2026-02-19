@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CE82B&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+Samir+Elhadad's+Profile!;" />
 </div>
 
-
+<h3 align="center">Front-End Developer | .NET Learner | AI & Data Science Student</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samir-elhadad-8303a4398">
@@ -31,34 +31,8 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,figma,git,github,vscode,postman,npm,python,sklearn,c#" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,figma,git,github,vscode,visualstudio,postman,npm,python,sklearn,cs,dotnet" />
 </p>
-
-### 🎨 Front-End Development
-- HTML5 / CSS3  
-- JavaScript (ES6+)  
-- Bootstrap  
-- Responsive Design  
-
-### ⚙️ Back-End Development
-- C#  
-- .NET Core  
-- RESTful APIs  
-- Entity Framework (Basics)  
-
-### 📊 Data Science & AI
-- Python  
-- Pandas / NumPy  
-- Matplotlib / Seaborn  
-- Scikit-Learn  
-- PyTorch (Basics)  
-- Machine Learning Fundamentals  
-
-### 🧰 Tools & Workflow
-- Git & GitHub  
-- VS Code / Visual Studio  
-- SQL Basics  
-- Problem Solving  
 
 ---
 
@@ -71,34 +45,11 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 
 ---
 
-## 📌 Featured Projects  
-
-> ⚠️ (Update this section with your best projects)
-
-- 🔹 Project 1 – Full-Stack Web App (.NET + Front-End)  
-- 🔹 Project 2 – Data Analysis & Visualization (Python)  
-- 🔹 Project 3 – Machine Learning Model  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamirElhadad1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🔥 GitHub Streak  
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamirElhadad1&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🔥 GitHub Streak  
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirElhadad1&theme=github-dark&hide_border=true"/>
-</div>
 
 ---
 
@@ -124,86 +75,3 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 </a>
 
 </div>
-
----
-
-⭐️ "Code. Learn. Improve. Repeat." 🚀  
-<h1 align="center">Hi 👋, I'm Samir Elhadad</h1>
-<h3 align="center">Front-End Developer | .NET Learner | AI & Data Science Student</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamirElhadad1&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🚀 About Me  
-
-- 🎓 AI & Data Science Student  
-- 💻 Front-End Developer  
-- ⚙️ Learning .NET Backend  
-- 🤖 Interested in AI & ML  
-- 🎯 Goal: Professional Software Engineer  
-
----
-
-## 🛠 Tech Stack  
-
-### 💻 Languages & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,python,git,github,vscode,visualstudio,sql" />
-</p>
-
----
-
-## 📈 GitHub Analytics  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamirElhadad1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamirElhadad1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 📌 Featured Projects  
-
-- 🔹 Full-Stack Web Application (.NET + JS)  
-- 🔹 Data Analysis Project (Python)  
-- 🔹 Machine Learning Model  
-
----
-
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samir-elhadad-8303a4398">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:samirelhadad28@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.instagram.com/samir__elhadad/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.facebook.com/SamirElhadad1.1">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-</p>
-
----
-
-⭐️ Code. Learn. Build. Repeat. 🚀
-
