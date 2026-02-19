@@ -30,6 +30,10 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 
 ## 🛠 Tech Stack  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,figma,git,github,vscode,postman,npm,python,sklearn,c#" />
+</p>
+
 ### 🎨 Front-End Development
 - HTML5 / CSS3  
 - JavaScript (ES6+)  
