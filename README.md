@@ -1,42 +1,73 @@
-# 👋 Hi, I'm Samir Elhadad
+# 👋 Hi, I'm Samir Elhadad  
 
-💻 Front-End Developer | .NET Learner | AI & Data Science Student  
-🚀 Passionate about building modern web applications
-
----
-
-## 🧠 About Me
-
-- 🎓 AI & Data Science Student  
-- 💻 Front-End Developer (HTML, CSS, JS, Bootstrap)  
-- 📚 Currently learning .NET & Backend  
-- 🌱 Interested in Machine Learning & Data Science  
-- 🎯 Goal: Become a Professional Software Engineer  
+💻 Front-End Developer | .NET Backend Learner | AI & Data Science Student  
+🚀 Building modern, scalable web applications  
+🇪🇬 Based in Egypt | Open to Internships & Freelance Opportunities  
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 About Me  
 
-### Front-End
-- HTML5 / CSS3 / JavaScript
-- Bootstrap / Responsive Design
+🎓 AI & Data Science Student with strong technical foundation  
+💻 Front-End Developer specialized in responsive UI development  
+⚙️ Currently mastering .NET & Backend Architecture  
+🤖 Passionate about Machine Learning & Intelligent Systems  
+🎯 Goal: Become a Professional Software Engineer & AI Engineer  
 
-### Back-End
-- C# / .NET (Learning)
-- Basic APIs
-
-### Data & AI
-- Python
-- Pandas / NumPy / Matplotlib / Scikit / PyTorch
-- Machine Learning Basics
-
-### Tools
-- Git / GitHub
-- VS Code / Visual Studio
+I enjoy building real-world projects, solving problems, and continuously improving my skills in both **Software Engineering** and **Artificial Intelligence**.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack  
+
+### 🎨 Front-End Development
+- HTML5 / CSS3  
+- JavaScript (ES6+)  
+- Bootstrap  
+- Responsive Design  
+
+### ⚙️ Back-End Development
+- C#  
+- .NET Core  
+- RESTful APIs  
+- Entity Framework (Basics)  
+
+### 📊 Data Science & AI
+- Python  
+- Pandas / NumPy  
+- Matplotlib / Seaborn  
+- Scikit-Learn  
+- PyTorch (Basics)  
+- Machine Learning Fundamentals  
+
+### 🧰 Tools & Workflow
+- Git & GitHub  
+- VS Code / Visual Studio  
+- SQL Basics  
+- Problem Solving  
+
+---
+
+## 🚀 Currently Working On  
+
+- 🔹 Building full-stack projects  
+- 🔹 Improving backend skills with .NET  
+- 🔹 Data preprocessing & visualization  
+- 🔹 Machine Learning model development  
+
+---
+
+## 📌 Featured Projects  
+
+> ⚠️ (Update this section with your best projects)
+
+- 🔹 Project 1 – Full-Stack Web App (.NET + Front-End)  
+- 🔹 Project 2 – Data Analysis & Visualization (Python)  
+- 🔹 Project 3 – Machine Learning Model  
+
+---
+
+## 📊 GitHub Stats  
 
 <div align="center">
 
@@ -48,7 +79,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak  
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirElhadad1&theme=github-dark&hide_border=true"/>
@@ -56,7 +87,13 @@
 
 ---
 
-## 🌍 Connect With Me
+## 🧩 Problem Solving  
+
+> Coming Soon: LeetCode & Codeforces Profiles  
+
+---
+
+## 🌍 Connect With Me  
 
 <div align="center">
 
@@ -80,4 +117,4 @@
 
 ---
 
-⭐️ From Egypt 🇪🇬 | Open to Internships & Freelance
+⭐️ "Code. Learn. Improve. Repeat." 🚀  
