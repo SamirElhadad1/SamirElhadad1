@@ -14,11 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=SamirElhadad1&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
-<br/>
-💻 Front-End Developer | .NET Backend Learner | AI & Data Science Student  
-🚀 Building modern, scalable web applications  
-🇪🇬 Based in Egypt | Open to Internships & Freelance Opportunities  
-
 ---
 
 ## 🧠 About Me  
