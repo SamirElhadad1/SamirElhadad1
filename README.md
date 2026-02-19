@@ -128,3 +128,82 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 ---
 
 ⭐️ "Code. Learn. Improve. Repeat." 🚀  
+<h1 align="center">Hi 👋, I'm Samir Elhadad</h1>
+<h3 align="center">Front-End Developer | .NET Learner | AI & Data Science Student</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamirElhadad1&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me  
+
+- 🎓 AI & Data Science Student  
+- 💻 Front-End Developer  
+- ⚙️ Learning .NET Backend  
+- 🤖 Interested in AI & ML  
+- 🎯 Goal: Professional Software Engineer  
+
+---
+
+## 🛠 Tech Stack  
+
+### 💻 Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,python,git,github,vscode,visualstudio,sql" />
+</p>
+
+---
+
+## 📈 GitHub Analytics  
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamirElhadad1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamirElhadad1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+
+- 🔹 Full-Stack Web Application (.NET + JS)  
+- 🔹 Data Analysis Project (Python)  
+- 🔹 Machine Learning Model  
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samir-elhadad-8303a4398">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:samirelhadad28@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.instagram.com/samir__elhadad/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.facebook.com/SamirElhadad1.1">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+</p>
+
+---
+
+⭐️ Code. Learn. Build. Repeat. 🚀
+
